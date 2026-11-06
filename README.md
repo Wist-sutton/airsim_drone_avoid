@@ -3,3 +3,4 @@ AirSim无人机深度相机CNN避障
 新增 package.xml，功能包描述文件
 CMakeLists.txt 编译配置文件已添加
 添加requirements.txt依赖文件
+更新实验报告，补充模型测试数据
